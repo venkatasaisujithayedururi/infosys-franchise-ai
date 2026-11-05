@@ -1,0 +1,10 @@
+app/runtime_data/
+app/server.log
+app/.env
+app/__pycache__/
+**/__pycache__/
+*.db
+*.db-wal
+*.db-shm
+.jwt_secret
+.admin_initial
